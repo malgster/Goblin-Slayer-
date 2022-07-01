@@ -3,8 +3,8 @@
   Jeu de culture général a but ludo-pédagogique basé sur les mecanismes des "livres dont vous étes le héro", avec des enigmes et des boss.
 
 ## créateurs :
+  **malgster (Malak)**
   **alexwastook**
-  **Malak Hayar**
 
 ## Languages utilisés : 
 
