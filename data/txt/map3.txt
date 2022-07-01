@@ -1,0 +1,5 @@
+CECI EST MAP3
+un petit truc à propos de la map un qui se lance
+les énigme se lancent ensuite jusqu'à ce que le joueur décide d'arreter
+là y'a pas de perte de vie	
+c'est parti !

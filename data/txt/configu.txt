@@ -1,0 +1,58 @@
+   _.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._
+.-'---      - ---     --     ---   -----   - --       ----  ----   -     ---`-.
+ )                                                                           ( 
+(                  Bienvenu au menu de modification du jeu !                  ) 
+ )  	     vous pouvez changer quelques variables dans le jeu		     ( 
+(                   afin qu'il soit comme vous le voulez                      ) 
+ )                                                                           ( 
+(   ________________________________________________________________________  ) 
+ )          |1| changer le nombre de vie du personnage au départ            ( 
+(                                                                             ) 
+ )  Entrez un nombre, soit positif si vous voulez ajouter des vies à votre  ( 
+(	     personnage, soit négatif si vous voulez en retirer.	      ) 
+ )                                                                           ( 
+(   |Attention| Le personnage doit au moins avoir 1 vie et c'est immuable,    ) 
+ )      	 n'en retirez pas plus (on vous a à l'oeil.)                ( 
+(   ________________________________________________________________________  ) 
+ ) |2| changer le nombre de bonne réponses nécéssaire pour vaincre un boss( 
+(									      ) 
+ ) Entrez un nombre, soit positif si vous voulez ajouter un nombre de bonnes ( 
+( 	  réponses requises, soit négatif si vous voulez en retirer.        ) 
+ )									     ( 
+(   |Attention| vous ne pouvez pas retirer plus de trois bonnes réponses     ) 
+ )	           (encore une fois, on vous a à l'oeil).		     ( 
+(   _______________________________________________________________________   ) 
+ )              |3| Changer le débit d'affichement de texte                 ( 
+(									      ) 
+ ) Le débit d'affichement de chaque phrase est en milliseconde (1000 = 1sec)( 
+(   Vous pouvez mettre un nombre aussi grand que vous voulez - si votre       ) 
+ )souhait est d'attendre jusqu'à demain à l'aube l'affichage de votre      ( 
+(	         texte- ou un plus petit nombre, à votre guise.	      ) 
+ )									     ( 
+(        |Attention| Pas de nombre à virgule ou de nombre négatifs	      ) 
+ )                  (on vous a...je crois vous avez compris)		     ( 
+(  ________________________________________________________________________   )
+ )   |4|      L'option de gagner ou de perdre une vie dans le jeu            (   
+(    									      )
+ )   Durant le jeu, vous pourrez aléatoirement rencontrer un événement qui(
+(  vous fera gagner une chaussette ou vous en faire perdre une, selon votre   )
+ )        chance, vous pouvez ici activez ou désactiver cette option        (
+(                                                                             )
+ )    |Attention| Cette option est par défaut activée, et est recommandée.(
+(  ________________________________________________________________________   ) 
+ )   	    |5| Choisir de commencer au niveau de votre choix    	     ( 
+(									      ) 
+ )   |Attention| Pour ne pas spoiler le jeu, cette option sera uniquement    (
+(       disponible si vous avez déjà terminé le jeu et que vous aviez      )
+ )    	           reçu la clé secrète des dévellopeurs		     ( 
+(  ________________________________________________________________________   )
+ )                       |6| Effacez votre partie 			     (
+(									      )	
+ )      |Attention| Toute votre progression sera perdue ainsi que vos        (
+(		configurations personnalisées des variables du jeu. 	      )	
+ )__       _       _       _       _       _       _       _       _       __( 
+    (__  _) ( __ _) (__  _) (__ _ ) `-._.-' ( _ __) (_  __) (_ __ ) (_  __)
+    ( _ __) (_  __) (__ __) `-._.-'         `-._.-' (__ __) (__  _) (__ _ )
+    (__  _) (_ _ _) `-._.-'                         `-._.-' (_ _ _) (_  __)
+    (_ ___) `-._.-'                                         `-._.-' (___ _)
+    `-._.-'                                                         `-._.-'

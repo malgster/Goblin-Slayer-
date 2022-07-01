@@ -1,0 +1,7 @@
+EniQuest est un jeu qui vous est proposé par les meilleurs élèves de BUT informatique de l'IUT A de Lille, j'ai nommé :
+Malak Hayar et Alexandre Deudon
+Il a été fait dans le cadre de la SAé 2 de notre premier semestre.
+
+En quoi consiste EniQuest ?
+
+EniQuest est un jeu d'aventure 

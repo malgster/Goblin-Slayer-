@@ -1,0 +1,17 @@
+              _                                                     Ce jeu a été réalisé par le binôme hayar Malak et Alexandre Deudon
+             | |							dans le cadre du projet de la SAé 1.02 du premier semestre
+             | |===( )   //////							de notre BUT informatique à l'IUT A de Lille.
+             |_|   |||  | o o|
+                    ||| (  > )                  ____		 Goblin slayer est un jeu éducatif de culture générale de type fantastique 	
+                     ||| \= /                  ||   \_		    avec plusieurs niveau. Chaque niveau ayant un colisée d'entrainement
+                      ||||||                   ||     |		     ainsi qu'un boss attitré, le but du jeu étant de vaincre tous les
+                      ||||||                ...||__/|-"		     boss en répondant à leurs questions dont le thème change à chaque		
+                      ||||||             __|________|__		                   niveau sans tomber dans le GameOver.  		
+                        |||             |______________|	
+                        |||             || ||      || ||	   Le joueur peut commencer une nouvelle partie, la sauvegarder dans des
+                        |||             || ||      || ||	      points de sauvegarde mis à dispositions dans le jeu, et charger	
+------------------------|||-------------||-||------||-||-------        sa partie à ce point après un GameOver ou après avoir terminé
+                        |__>            || ||      || ||	            le processus du jeu. Le jeu est aussi paramétrable 
+									               par les joueurs ayant les accès.
+																	                                                                                              Le programme du Goblin Slayer a été réalisé entièrement en ijava.
+									            (Le meilleur language de programmation) 						
